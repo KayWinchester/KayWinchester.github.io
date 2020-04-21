@@ -10,22 +10,23 @@ body {
 #fun-facts {
   color: white; 
   background-color: gray; 
-  width: 12%; 
+  width: 230px; 
   text-align: center;
   border: 5px dashed black;
   position: absolute;
   top: 80px;
-  left: 700px;
+  left: 400px;
+  padding-right: 2px;
 }
 #favorite-planets {
   color: white; 
   background-color: gray; 
-  width: 10%; 
+  width: 200px; 
   text-align: center;
   border: 5px dashed black;
   position: absolute;
   top: 80px;
-  left: 950px;
+  left: 675px;
 }
 .all-info {
   width: 30%;
@@ -41,7 +42,8 @@ body {
   border: 10px dotted orange;
   position: absolute;
   top: 250px;
-  left: 650px;
+  left: 400px;
+  clear: both;
 }
 h4.truth-headline {
   color: red;
@@ -66,9 +68,9 @@ h4.truth-headline {
   <li>Mars</li>
 </ol>
 </div>
-<div class="all-info"><p>I come from the coal mining district, poorest and least populated among them, District 12. Each year, a representative from the Capitol comes to our district and selects on male and one female, aged 17 or younger, to participate in <em><strong>the Hunger Games</strong></em></p>
+<div class="all-info"><p>I come from the coal mining district, poorest and least populated among them, Sector 12. Each year, a representative from the Capitol comes to our district and selects on male and one female, aged 17 or younger, to participate in <em><strong>the Hunger Games</strong></em></p>
 </div>
-<div id="truth-about-twelve"><h4 class="truth-headline">The Truth About District 12</h4>
+<div id="truth-about-twelve"><h4 class="truth-headline">The Truth About Sector 12</h4>
 <ul>
   <li>Men & boys are forced to work in the coal mines, even when ill.</li>
 </ul>
@@ -76,6 +78,7 @@ h4.truth-headline {
 
 <ol>
   <li><img src="https://www.facebook.com/photo.php?fbid=10104678061664049&set=a.721421353989&type=3&size=394%2C394" alt="Laying down in front of the Christmas Tree with lights, Cartoon drawing.">
+  <li><img src="https://www.shutterstock.com/image-photo/blonde-woman-curly-beautiful-hair-smiling-748817557" alt="Blonde woman smiling"></li>
 </ol>
 </body>
 </html>
