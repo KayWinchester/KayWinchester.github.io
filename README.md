@@ -50,16 +50,18 @@ h4.truth-headline {
 }
 </style>
 </head>
-	<body>
+<body>
 <h1>Kay Writes Words</h1>
 <div class="all-info"><h4>Kay Winchester is a writer and aspiring author.<br> Currently, taking a free online coding class to increase chances of landing a job as a content writer.</h4>
- 	<p>This is to help build skills in web design. Imagine a page full of random information about me, ripe for the picking by unsavory characters. Alas, I hope you enjoy the random fun facts and other fictional info you find on this page.<p></div>
+ 	<p>This is to help build skills in web design. Imagine a page full of random information about me, ripe for the picking by unsavory characters. Alas, I hope you enjoy the random fun facts and other fictional info you find on this page.<p>
+</div>
 <div id="fun-facts" class="information-boxes"><h4>Three Fun Facts</h4>
 <ul>
   <li>Chudley Cannons Fan</li>
   <li>Chicago Native</li>
   <li>Lover of Food</li>
-  </ul></div>
+  </ul>
+  </div>
 <div id="favorite-planets" class="information-boxes"><h4>Favorite Planets</h4>
 <ol>  
   <li>Saturn</li>
