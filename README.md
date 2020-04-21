@@ -53,8 +53,7 @@ h4.truth-headline {
 	<body>
 <h1>Kay Writes Words</h1>
 <div class="all-info"><h4>Kay Winchester is a writer and aspiring author.<br> Currently, taking a free online coding class to increase chances of landing a job as a content writer.</h4>
- 	<p>This is to help build skills in web design. Imagine a page full of random information about me, ripe for the picking by unsavory characters. Alas, I hope you enjoy the random fun facts and other fictional info you find on this page.<p>
-</div>
+ 	<p>This is to help build skills in web design. Imagine a page full of random information about me, ripe for the picking by unsavory characters. Alas, I hope you enjoy the random fun facts and other fictional info you find on this page.<p></div>
 <div id="fun-facts" class="information-boxes"><h4>Three Fun Facts</h4>
 <ul>
   <li>Chudley Cannons Fan</li>
@@ -79,6 +78,3 @@ h4.truth-headline {
 <ol>
   <li><img src="https://www.facebook.com/photo.php?fbid=10104678061664049&set=a.721421353989&type=3&size=394%2C394" alt="Laying down in front of the Christmas Tree with lights, Cartoon drawing.">
   <li><img src="https://www.shutterstock.com/image-photo/blonde-woman-curly-beautiful-hair-smiling-748817557" alt="Blonde woman smiling"></li>
-</ol>
-</body>
-</html>
